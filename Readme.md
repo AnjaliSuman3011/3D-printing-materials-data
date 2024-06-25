@@ -4,7 +4,7 @@ It provides a RESTful API for CRUD operations and handles image uploads.
 
 ## Features
 CRUD operations for 3D printing materials
-Image upload handling
+# Image upload handling
 
 
 #### Setup and Installation
