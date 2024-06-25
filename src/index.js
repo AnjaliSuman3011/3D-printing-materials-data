@@ -9,7 +9,7 @@ app.use(express.json());
 app.use('/materials', materialRoutes);
 
 mongoose
-.connect('mongodb+srv://AnjaliSuman:9431128340@cluster0.o9ge3gl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+.connect('********************************')
 .then(
     ()=>{
         console.log("DB connected");
