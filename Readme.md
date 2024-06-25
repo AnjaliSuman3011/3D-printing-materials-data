@@ -70,7 +70,7 @@ DELETE /materials/
 
 ### Datbase storage
 
-![alt text](<db snapshotOne.PNG>)![dbsnapshotTwo](https://github.com/AnjaliSuman3011/3D-printing-materials-data/assets/97871843/3582611a-f85e-459e-b8d6-3a29471e618d)
+![alt text](<db snapshotOne.PNG>)![dbsnapshotTwo]
 
 ![dbsnapshotTwo](https://github.com/AnjaliSuman3011/3D-printing-materials-data/assets/97871843/d04c4122-1878-43c5-8a55-e3c6da45a019)
 
