@@ -71,3 +71,4 @@ DELETE /materials/
 ### Datbase storage
 
 ![alt text](<db snapshotOne.PNG>)
+![Uploading dbsnapshotTwo.PNG…]()
